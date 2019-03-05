@@ -1,0 +1,21 @@
+runMain sequential.Sequential 
+runMain sequential.Sequential ~/Desktop/
+show discoveredMainClasses
+runMain sequential.Sequential ~/Desktop/
+runMain sequential.Sequential 
+runMain sequential.Sequential /
+runMain sequential.Sequential /Users/yingmao/Desktop/Fordham-Teaching/Spring2019/CISC5950/distributedsystem-2/code/filesize
+runMain sequential.Sequential /Users/yingmao/Desktop/Fordham-Teaching/Spring2019/CISC5950/distributedsystem-2/code/
+runMain sequential.Sequential /Users/yingmao/Desktop/Fordham-Teaching/Spring2019/CISC5950/distributedsystem-2/
+clear
+ls
+ls;
+ls:
+exit
+discoveredMainClasses
+run discoveredMainClasses
+runMain concurrent1.Concurrent1 /Users/yingmao/Desktop/Fordham-Teaching/Spring2019/CISC5950/distributedsystem-2/
+runMain concurrent1.Concurrent2 /Users/yingmao/Desktop/Fordham-Teaching/Spring2019/CISC5950/distributedsystem-2/
+runMain AkkaFileSize  /Users/yingmao/Desktop/Fordham-Teaching/Spring2019/CISC5950/distributedsystem-2/
+runMain sequential.Sequential /Users/yingmao/Desktop/Fordham-Teaching/Spring2019/CISC5950/distributedsystem-2/
+exit

@@ -1,0 +1,6 @@
+runMain
+runMain first
+runMain FirstS
+runMain FirstAppS
+show discoveredMainClasses
+runMain FirstAppJ
